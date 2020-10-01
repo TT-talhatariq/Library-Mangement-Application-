@@ -1,0 +1,6 @@
+There are Following Files:
+
+1) Fine Records of Student
+2) Issued Books Details
+3) Member Students Data & Password Files
+4) Admin Password & Other Details
