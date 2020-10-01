@@ -1,0 +1,27 @@
+1218 A Comeplete guide to C++
+Demestifyed
+9
+4565 Java Interface
+Rohi Paul
+18
+8765 C++ Programming
+DS Malik
+7
+2381 Data Structure
+Lapole Neom
+9
+2382 Introduction to Algorithms
+CR Charlas Babage
+17
+9237 Python 3.7 
+Charlas Russal
+7
+392 Assembly Language
+Neom & Mr. Shiip
+9
+1356 Introduction to Computing
+Florday Lakus
+12
+8264 C sharp for 3D Gaming and Virtuality
+Mr Aueful & Mike Nardi
+12

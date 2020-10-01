@@ -1,0 +1,21 @@
+9247    Electronics Devices
+Robort Folyed
+3
+9242    Digital Logic Design
+Morris Mano
+9
+1362    Discrete Mathemethics
+Imran Fareed
+12
+2397    Probability and Statistic
+Walpole
+6
+9237    Calculas 
+Richard folrday
+7
+2038    Linear Algebra 
+Mr. Faisal Aslam
+9
+2038    Linear Algebra 
+Mr. Faisal Aslam
+9
