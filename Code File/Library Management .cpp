@@ -1431,7 +1431,7 @@ void main_text() {
 	}
 }
 
-//Book's Section Option 
+//Book's Section Option (Stock of Books in Library)
 void books_section(int &a) {
 
 	//Different catogries of Library
