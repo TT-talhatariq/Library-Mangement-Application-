@@ -18,6 +18,7 @@ It has two parts:
 ![alt text](https://github.com/TT-talhatariq/Library-Mangement-Application-/blob/master/images/access.jpg)
 
 ## First of all, You have to Login into this System by your Password.
+<br/><br/>
 ![alt text](https://github.com/TT-talhatariq/Library-Mangement-Application-/blob/master/images/admin_login.jpg)
 
 ## If you are a Admin than after login you have authorities to:
@@ -27,6 +28,7 @@ It has two parts:
 3) Addition, Removal & Updation of a Book in any Section
 4) Checking & Searching of all books,Library Members, Fine Records, Issued Books details
 5) Changing of Password or Logout
+<br/><br/>
 ![alt Text](https://github.com/TT-talhatariq/Library-Mangement-Application-/blob/master/images/admin.jpg)
 
 ## If you are a Student than after login you have authorities to:
@@ -34,10 +36,16 @@ It has two parts:
 1) Checking all Stock or Searching a Book Particular Book, by Name or ISBN, in Library Stock.
 2) Checking which Books are Previously enrolled to him.
 3) Updation of Password or Logout from Sytem.
+<br/><br/>
 ![alt text](https://github.com/TT-talhatariq/Library-Mangement-Application-/blob/master/images/student.jpg)
 
 ## This App has following Special Features:
 1) No Program Crashing, until user close it by himself.It's mean all type of Errors Occurring handled Properly in this Programe. Specially Wrong datatype input error.
 2) All Record Shown on Console are Formatted in well_mannered way.
 3) User's Friendly Application with Soothing Console Colors, Fonts & Headings.
+<br/><br/>
 ![alt text](https://github.com/TT-talhatariq/Library-Mangement-Application-/blob/master/images/books.jpg)
+
+## How to Use this
+### clone or download this repo, and put all the files in one folder and compile source file on CMD. 
+### Happy Coding 💪
