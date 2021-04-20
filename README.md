@@ -13,6 +13,8 @@ There are 5 Sections of Book in Library:
 It has two parts:
 1) Admin
 2) Student
+<br/><br/>
+
 ![alt text](https://github.com/TT-talhatariq/Library-Mangement-Application-/blob/master/images/access.jpg)
 
 ## First of all, You have to Login into this System by your Password.
