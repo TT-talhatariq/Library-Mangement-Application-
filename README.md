@@ -17,7 +17,7 @@ It has two parts:
 
 ![alt text](https://github.com/TT-talhatariq/Library-Mangement-Application-/blob/master/images/access.jpg)
 
-## First of all, You have to Login into this System by your Password.
+## First of all, You have to Login into this System by using your Password.
 <br/><br/>
 ![alt text](https://github.com/TT-talhatariq/Library-Mangement-Application-/blob/master/images/admin_login.jpg)
 
